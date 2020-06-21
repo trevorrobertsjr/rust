@@ -20,6 +20,7 @@ fn main() {
             Err(_) => {
                 println!("Valid Number Please!");
                 continue;
+                
             }
         };
         // .expect("Please type a number!");
